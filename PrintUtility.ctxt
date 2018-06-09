@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=void\ printStartScreen(int)
+comment1.params=current_pos\ p
+comment1.target=void\ printInventory(int,\ Player)
+comment2.params=g\ row\ col
+comment2.target=void\ printGrid(Grid,\ int,\ int)
+comment3.params=i\ food\ enemy\ player
+comment3.target=void\ printFightScreen(int,\ int,\ Enemy,\ Player)
+comment4.params=current_pos\ input
+comment4.target=void\ printStructure(int,\ Structure)
+comment5.params=p
+comment5.target=void\ printTreasure(Player)
+comment6.params=
+comment6.target=void\ printDeath()
+comment7.params=
+comment7.target=void\ clearBoard()
+numComments=8

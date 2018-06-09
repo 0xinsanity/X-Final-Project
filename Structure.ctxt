@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Structure()
+comment1.params=
+comment1.target=int\ getDoorWay1()
+comment2.params=
+comment2.target=int\ getDoorWay2()
+comment3.params=
+comment3.target=java.lang.String\ getPlaceName()
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=namex\ dur\ dam
+comment0.target=Weapon(java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=void\ restoreDurability()
+comment3.params=
+comment3.target=int\ getDurability()
+comment4.params=
+comment4.target=void\ decrementDurability()
+comment5.params=compared
+comment5.target=boolean\ equals(Weapon)
+comment6.params=
+comment6.target=int\ getDamage()
+numComments=7

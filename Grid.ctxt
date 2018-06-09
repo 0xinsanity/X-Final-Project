@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=r\ c
+comment0.target=Grid(int,\ int)
+comment1.params=
+comment1.target=Enemy\ generateEnemy()
+comment2.params=line
+comment2.target=Weapon\ getWeaponFromLine(int)
+comment3.params=
+comment3.target=Player\ returnPlayer()
+comment4.params=x\ y
+comment4.target=GridSpot\ getSpotAtLoc(int,\ int)
+comment5.params=
+comment5.target=int[]\ getPlayerLocation()
+comment6.params=x\ y
+comment6.target=void\ changePlayerLocation(int,\ int)
+numComments=7
